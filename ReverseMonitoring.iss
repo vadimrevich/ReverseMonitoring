@@ -16,25 +16,19 @@ SetupLogging=yes
 UsePreviousAppDir=yes
 DisableStartupPrompt=yes
 Output=yes
-OutputDir=d:\Download
+OutputDir=e:\yuden\Compile
 OutputBaseFilename=ReverseMonitoringSetup
 AllowNoIcons=True
 AppPublisher=New Internet Technologies Inc.
-AppSupportURL=http://yudenisov.ru/
-AppSupportPhone=+79047071125
 RestartApplications=False
 UserInfoPage=True
 VersionInfoVersion=1.0.0.0
 VersionInfoCompany=New Internet Technologies Inc.
 VersionInfoTextVersion=Version 1.0.0.0_alpha
-VersionInfoCopyright=Copyright (c) yudenisov 2020
 VersionInfoProductName=NIT Reverse Monitoring
 VersionInfoProductVersion=1.0.0.0
-AppPublisherURL=http://anticriminalonline.ru/
-AppContact=yudenisov@mail.ru
 SolidCompression=True
 LicenseFile=.\LICENSE.md
-AppCopyright=Copyright (c) Yuri A. Denisov 2020
 
 [Dirs]
 Name: {app}\Util; Attribs: hidden; Permissions: everyone-full
