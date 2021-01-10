@@ -11,8 +11,8 @@ $prefixc = "ftp"
 $domainc = "lare.tuneserv.ru"
 $portc = 21
 $serverdirc = "/tmp/Files/"
-$userc = "MSSQLSR"
-$passwordc = "Admin01234"
+$userc = "MyAdminAccount"
+$passwordc = "MyAdminPassword"
 $prefixfilename = "sysdump"
 $echomessage = ""
 

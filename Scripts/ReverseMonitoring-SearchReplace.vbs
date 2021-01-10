@@ -2,8 +2,8 @@
 '
 ' TestSearchReplace.vbs
 '
-' This Script Searches String MSSQLSR in a Text File and Replace it on
-' %COMPUTERNAME%\MSSQLSR at Whole File
+' This Script Searches String MyAdminAccount in a Text File and Replace it on
+' %COMPUTERNAME%\MyAdminAccount at Whole File
 '
 ' PARAMETERS: 	NONE
 '
@@ -16,7 +16,7 @@ Const ForReading = 1
 Const ForWriting = 2
 Const TristateTrue = -1
 Const TristateFalse = 0
-Const USERNAME = "MSSQLSR"
+Const USERNAME = "MyAdminAccount"
 Const XMLFILENAME1 = "ReverseMonitoring_Quart"
 Const BATFILENAME1 = "ReverseMonitoring-postinstall1"
 Const PUB1_PATH = "C:\pub1"
